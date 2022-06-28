@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working at Homely. Our mission is to reduce poverty in our region. 
+- 🔭 I’m currently working at [Homely](https://homely.mx/). Our mission is to reduce poverty in LATAM by adding software in an industry historically neglected. That industry is cleaning. Have you seen [Rome](https://www.netflix.com/search?q=roma&jbv=80240715) ? That's what we are trying to change and improve. 
+
 
 <!--
 **MisaelCalvillo/MisaelCalvillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
