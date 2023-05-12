@@ -1,27 +1,27 @@
-### Hi there 👋 I am a Software Engineer with 7 years of experience. I've built hundreds of software proyects during those years.
+### Hi there 👋 I am a Software Engineer with 7 years of experience. I've built hundreds of software projects during those years.
 
-My stack consist on the following technologies: 
+My stack consists on the following technologies:
 
-Programming Languages I know: 
-  * JavaScript 
-  * TypeScript
-  * Python
+1. Programming Languages I know: 
+   * JavaScript 
+   * TypeScript
+   * Python
 
-Frameworks I've worked with:
-  * React.js
-  * Next.js
-  * Express
-  * Angular
-  * Angular.js
+2. Frameworks I've worked with:
+   * React.js
+   * Next.js
+   * Express
+   * Angular
+   * Angular.js
 
-Testing Tools I've used: 
-  * Jest
-  * Cypress
+3. Testing Tools I've used: 
+   * Jest
+   * Cypress
  
- Database I've also worked with: 
-  * PostgreSQL
-  * Firebase Realtime Database
-  * Redis 
+4. Database I've also worked with: 
+   * PostgreSQL
+   * Firebase Realtime Database
+   * Redis 
 
 - I am co-founder at [CareMe](https://careme.mx/). A marketplace that helps you find a nurse or professional caregiver in Mexico. 
 - Former CTO at [Homely](https://homely.mx/). A marketplace that helps you find a professional cleaner in Mexico and Colombia.
