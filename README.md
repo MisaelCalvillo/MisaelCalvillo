@@ -1,4 +1,4 @@
-### Hi there 👋 I am a Software Engineer with 7 years of experience. I've built hundreads of software proyects during those years.
+### Hi there 👋 I am a Software Engineer with 7 years of experience. I've built hundreds of software proyects during those years.
 
 My stack consist on the following technologies: 
 
@@ -13,6 +13,10 @@ Frameworks I've worked with:
   * Express
   * Angular
   * Angular.js
+
+Testing Tools I've used: 
+  * Jest
+  * Cypress
  
  Database I've also worked with: 
   * PostgreSQL
@@ -20,10 +24,10 @@ Frameworks I've worked with:
   * Redis 
 
 - I am co-founder at [CareMe](https://careme.mx/). A marketplace that helps you find a nurse or professional caregiver in Mexico. 
-- Former CTO at [Homely](https://homely.mx/). A marketplace that helps you find a professional cleaner in Mexico and Colombia. 
+- Former CTO at [Homely](https://homely.mx/). A marketplace that helps you find a professional cleaner in Mexico and Colombia.
+- Worked as a Senior Sofware Engineer at [Fondeadora](https://fondeadora.com/). A neobank in Mexico. A YC company. 
 
- That industry is cleaning. Have you seen [Rome](https://www.netflix.com/search?q=roma&jbv=80240715) ? That's what we are trying to change and improve. 
-
+- 🌱 I’m currently learning C++ and Mobile Development for iOS and Android. 
 
 <!--
 **MisaelCalvillo/MisaelCalvillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
