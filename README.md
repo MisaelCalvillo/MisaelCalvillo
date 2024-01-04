@@ -1,6 +1,6 @@
-### Hi there 👋 I am a Software Engineer with 8 years of experience. I've built hundreds of software projects during those years.
+### I am a Software Engineer with 8 years of experience. I've built hundreds of software projects during those years.
 
-My stack consists on the following technologies:
+I have a lot of experience in these technologies:
 
 1. Programming Languages I know: 
    * JavaScript 
