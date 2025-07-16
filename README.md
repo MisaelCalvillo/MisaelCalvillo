@@ -1,5 +1,4 @@
-### I am a Software Engineer with 8 years of experience. I've built hundreds of software projects during those years.
-
+### My Stack 📚
 I have a lot of experience in these technologies:
 
 1. Programming Languages I know: 
